@@ -1,1 +1,1 @@
-# Hand-Gesture-Reader
+# Hand-Gesture-Interpreter
